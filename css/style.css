@@ -522,7 +522,7 @@ section.contato input[type=submit]{
         position: absolute;
         left: 0;
         top: 0;
-        width: 30%;
+        width: 0;
         height: 19px;
         background: linear-gradient(to bottom,rgb(255,255,255),rgb(200,200,200) );
         border-radius: 20px;
@@ -535,7 +535,7 @@ section.contato input[type=submit]{
         background-color: rgb(180, 180, 180);
         position: absolute;
         top: -3px;
-        left: calc(30% - 13px);
+        left: 0;
         border: 1px solid #777;
         cursor: pointer;
     }

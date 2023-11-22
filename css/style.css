@@ -710,13 +710,14 @@ section.contato input[type=submit]{
     }
 
     .nav-galeria-wraper{
-        width: 200%;
+        color: black;
+        /*Via js => width*/
     }
 
     .mini-img-wraper{
         float: left;
         padding: 9px;
-        width: calc(33.3% * (100/200));
+        /*Via js => width*/
     }
 
     .mini-img{

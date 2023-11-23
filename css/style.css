@@ -65,7 +65,6 @@ nav.mobile ul{
     right: 5%;
     background-color: rgba(100, 100, 100, 0.4);
     z-index: 999;
-    display: none;
 }
 
 nav.mobile ul li{
@@ -906,10 +905,6 @@ media screen marco{
     }
 
     header nav.mobile{
-        display: block;
-    }
-
-    nav.mobile:hover > ul{
         display: block;
     }
     
